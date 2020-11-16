@@ -21,3 +21,7 @@ https://gitee.com/pbteach/SpringCloud_xuecheng
 
 学成在线笔记
 https://gitee.com/huabei210/xczx_notes
+
+# 20个小时快速入门go语言
+https://www.bilibili.com/video/BV1UW411x7v2?p=77
+源码： panjinying:goland/20小时快速入门go语言视频

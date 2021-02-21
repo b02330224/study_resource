@@ -30,6 +30,7 @@ https://www.bilibili.com/video/BV1UW411x7v2?p=77
 https://www.bilibili.com/video/BV1w4411y7Go?p=34
 资料笔记：b02330224:/教程/尚硅谷Kubernetes教程
 
+# k8s教程由浅入深-尚硅谷
 
-滴滴大数据：
+# 滴滴大数据：
 链接: https://pan.baidu.com/s/1snNRDSn00rxPd9jilvr7sA 提取码: 6324

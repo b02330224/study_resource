@@ -1,6 +1,10 @@
 # study_resource
 
 
+# 尚硅谷2021版React技术全家桶全套完整版（零基础入门到精通/男神天禹老师亲授
+https://www.bilibili.com/video/BV1wy4y1D7JT?from=search&seid=8114982293598338797&spm_id_from=333.337.0.0
+源码： panjinying:react
+
 # React 企业级实战项目-宜居
 https://www.bilibili.com/video/BV1h7411X796/?p=3
 https://yunp.top/
@@ -9,6 +13,7 @@ https://yunp.top/
 # react基础到实战-尚硅谷 硅谷直聘
 https://www.bilibili.com/video/BV184411x7F9?p=74
 源码：panjinying:react
+
 
 
 # 基于Saas的IHRM系统:

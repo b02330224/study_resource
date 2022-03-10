@@ -14,6 +14,9 @@ https://yunp.top/
 https://www.bilibili.com/video/BV184411x7F9?p=74
 源码：panjinying:react
 
+# React实战开发--适配PC及移动端的新闻头条网站
+视频： b02330224/react
+源码：https://github.com/b02330224/react_news
 
 
 # 基于Saas的IHRM系统:

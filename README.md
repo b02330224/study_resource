@@ -18,6 +18,8 @@ https://www.bilibili.com/video/BV184411x7F9?p=74
 视频： b02330224/react
 源码：https://github.com/b02330224/react_news
 
+# react hooks 技术胖博客
+https://jspang.com/article/50#toc8
 
 # 基于Saas的IHRM系统:
 https://github.com/Han-YLun/SaaS_IHRM

@@ -1,6 +1,9 @@
 # study_resource
 
 
+# 黑马 skywalking
+https://www.bilibili.com/video/BV1ZJ411s7Mn?p=1&vd_source=a913c84aef4292c6af49c73de4c78ef6
+
 # 尚硅谷2021版React技术全家桶全套完整版（零基础入门到精通/男神天禹老师亲授
 https://www.bilibili.com/video/BV1wy4y1D7JT?from=search&seid=8114982293598338797&spm_id_from=333.337.0.0
 源码： panjinying:react

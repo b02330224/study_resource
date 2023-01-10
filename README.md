@@ -27,14 +27,6 @@ https://jspang.com/article/50#toc8
 # 基于Saas的IHRM系统:
 https://github.com/Han-YLun/SaaS_IHRM
 
-
-
-# 学成在线：
-https://gitee.com/pbteach/SpringCloud_xuecheng
-
-学成在线笔记
-https://gitee.com/huabei210/xczx_notes
-
 # 20个小时快速入门go语言
 https://www.bilibili.com/video/BV1UW411x7v2?p=77
 源码： panjinying:goland/20小时快速入门go语言视频
@@ -47,3 +39,15 @@ https://www.bilibili.com/video/BV1w4411y7Go?p=34
 
 # 滴滴大数据：
 链接: https://pan.baidu.com/s/1snNRDSn00rxPd9jilvr7sA 提取码: 6324
+
+
+# java
+## 尚医通项目
+笔记 https://blog.csdn.net/dengfengling999/category_12135138.html
+视频 bilibili
+代码 
+
+## 学成在线：
+代码 https://gitee.com/pbteach/SpringCloud_xuecheng
+学成在线笔记 https://gitee.com/huabei210/xczx_notes
+

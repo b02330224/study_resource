@@ -41,13 +41,13 @@ https://www.bilibili.com/video/BV1w4411y7Go?p=34
 链接: https://pan.baidu.com/s/1snNRDSn00rxPd9jilvr7sA 提取码: 6324
 
 
-# java
-## 尚医通项目
+# ava
+### 尚医通项目
 笔记 https://blog.csdn.net/dengfengling999/category_12135138.html
 视频 bilibili
 代码 
 
-## 学成在线：
+### 学成在线：
 代码 https://gitee.com/pbteach/SpringCloud_xuecheng
 学成在线笔记 https://gitee.com/huabei210/xczx_notes
 
